@@ -1,0 +1,24 @@
+{
+  "name": "express-hello-world",
+  "version": "1.0.0",
+  "description": "sample of usage of express.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafanog/Express-Hello-World.git"
+  },
+  "keywords": [
+    "express.js",
+    "node.js",
+    "hello-world"
+  ],
+  "author": "Rafael Noguera",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rafanog/Express-Hello-World/issues"
+  },
+  "homepage": "https://github.com/rafanog/Express-Hello-World#readme"
+}
